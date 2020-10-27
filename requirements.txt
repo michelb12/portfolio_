@@ -39,7 +39,7 @@ conda-build==3.17.8
 conda-package-handling==1.6.0
 conda-verify==3.1.1
 contextlib2==0.5.5
-cryptography==2.6.1
+cryptography==3.2
 cufflinks==0.17.3
 cvxpy==1.0.24
 cycler==0.10.0
