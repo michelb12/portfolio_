@@ -50,7 +50,7 @@ dash-core-components==1.10.0
 dash-html-components==1.0.3
 dash-renderer==1.4.1
 dash-table==4.7.0
-dask==1.1.4
+dask==2021.10.0
 DateTime==4.3
 decorator==4.4.0
 defusedxml==0.5.0
